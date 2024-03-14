@@ -113,7 +113,7 @@ function Display() {
 
   return (
     <>
-    <h1>DNS Mananger</h1>
+    <h1>DNS Manager</h1>
       <div className="todo-wrapper">
         <Add addTodo={handleAddTodo} />
         
